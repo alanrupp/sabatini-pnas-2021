@@ -1,0 +1,21 @@
+[Header],,,,,,,,,,
+IEMFileVersion,4,,,,,,,,,
+Investigator Name,mmyers,,,,,,,,,
+Experiment Name,Run_1905,,,,,,,,,
+Date,Jul 29 2017  2:55PM,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,
+Application,HiSeq FASTQ Only,,,,,,,,,
+Assay,TruSeq LT,,,,,,,,,
+Description,Run_1905,,,,,,,,,
+Chemistry,Default,,,,,,,,,
+,,,,,,,,,,
+[Reads],,,,,,,,,,
+65,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+[Settings],,,,,,,,,,
+,,,,,,,,,,
+[Data],,,,,,,,,,
+Lane,Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,index2,Sample_Project,Description,Sample_Type
+2,Sample_85276,85276_ACAGTG,,,,ACAGTG,,mmyers,N_GDF15R_Chow_B,RNA
+2,Sample_85277,85277_GTGAAA,,,,GTGAAA,,mmyers,N_GDF15R_Chow_S,RNA

@@ -1,0 +1,7 @@
+reads filtered with fastq_quality_filter 0.0.14
+
+mapped to STAR genome using STAR_2.5.3a_modified
+genome : GRCm38-92_Cre_GfpL10a
+gtf    : GRCm38.92_Cre_GfpL10a.gtf
+
+

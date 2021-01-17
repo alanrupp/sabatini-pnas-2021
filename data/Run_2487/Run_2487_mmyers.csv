@@ -1,0 +1,39 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,mmyers,,,,,,,,
+Experiment Name,Run_2487,,,,,,,,
+Date,2018-09-28 13:25:06.420,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,HiSeq FASTQ Only,,,,,,,,
+Assay,TruSeq LT,,,,,,,,
+Description,Run_2487,,,,,,,,
+Chemistry,Default,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+51,,,,,,,,,
+51,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Lane,Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,index2,Sample_Project,Description,Sample_Type
+4,Sample_115267,115267_CGATGT,,,,CGATGT,,mmyers,Gfral_AP_Gdf15_B1,RNA
+4,Sample_115268,115268_CAGATC,,,,CAGATC,,mmyers,Gfral_AP_Gdf15_B2,RNA
+4,Sample_115269,115269_GTGAAA,,,,GTGAAA,,mmyers,Gfral_AP_Gdf15_B3,RNA
+4,Sample_115270,115270_TGACCA,,,,TGACCA,,mmyers,Gfral_AP_Gdf15_S1,RNA
+4,Sample_115271,115271_GAGTGG,,,,GAGTGG,,mmyers,Gfral_AP_Gdf15_S2,RNA
+4,Sample_115272,115272_ATCACG,,,,ATCACG,,mmyers,Gfral_AP_Gdf15_S3,RNA
+4,Sample_115273,115273_TAGCTT,,,,TAGCTT,,mmyers,Gfral_AP_Veh_B1,RNA
+4,Sample_115274,115274_GTGGCC,,,,GTGGCC,,mmyers,Gfral_AP_Veh_B2,RNA
+4,Sample_115275,115275_AGTCAA,,,,AGTCAA,,mmyers,Gfral_AP_Veh_C1,RNA
+4,Sample_115276,115276_GTCCGC,,,,GTCCGC,,mmyers,Gfral_AP_Veh_C2,RNA
+5,Sample_115267,115267_CGATGT,,,,CGATGT,,mmyers,Gfral_AP_Gdf15_B1,RNA
+5,Sample_115268,115268_CAGATC,,,,CAGATC,,mmyers,Gfral_AP_Gdf15_B2,RNA
+5,Sample_115269,115269_GTGAAA,,,,GTGAAA,,mmyers,Gfral_AP_Gdf15_B3,RNA
+5,Sample_115270,115270_TGACCA,,,,TGACCA,,mmyers,Gfral_AP_Gdf15_S1,RNA
+5,Sample_115271,115271_GAGTGG,,,,GAGTGG,,mmyers,Gfral_AP_Gdf15_S2,RNA
+5,Sample_115272,115272_ATCACG,,,,ATCACG,,mmyers,Gfral_AP_Gdf15_S3,RNA
+5,Sample_115273,115273_TAGCTT,,,,TAGCTT,,mmyers,Gfral_AP_Veh_B1,RNA
+5,Sample_115274,115274_GTGGCC,,,,GTGGCC,,mmyers,Gfral_AP_Veh_B2,RNA
+5,Sample_115275,115275_AGTCAA,,,,AGTCAA,,mmyers,Gfral_AP_Veh_C1,RNA
+5,Sample_115276,115276_GTCCGC,,,,GTCCGC,,mmyers,Gfral_AP_Veh_C2,RNA
