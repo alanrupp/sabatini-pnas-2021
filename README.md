@@ -38,4 +38,4 @@ This analysis was run with:
 In the command line, from the top folder run `R -e "rmarkdown::render('analysis.Rmd')"` to produce the output and figures.
 
 ## Citation
-Sabatini PV, Frikke-Schmidt H, Arthurs J, Gordian D, Patel A, Ruppa AC, Adams JM, Wang J, Jørgensen  SB, Olson DP, Palmiter RD, Myers MG Jr, Seeley RJ. **GFRAL-expressing neurons suppress food intake via aversive pathways**. *Proc Natl Acad SCI U S A* 2021 Feb 23;118(8):e2021357118. doi: [10.1073/pnas.2021357118](https://doi.org/10.1073/pnas.2021357118).
+Sabatini PV, Frikke-Schmidt H, Arthurs J, Gordian D, Patel A, Rupp AC, Adams JM, Wang J, Jørgensen  SB, Olson DP, Palmiter RD, Myers MG Jr, Seeley RJ. **GFRAL-expressing neurons suppress food intake via aversive pathways**. *Proc Natl Acad SCI U S A* 2021 Feb 23;118(8):e2021357118. doi: [10.1073/pnas.2021357118](https://doi.org/10.1073/pnas.2021357118).
